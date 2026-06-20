@@ -1,0 +1,23 @@
+# ============================
+# Điều hướng
+# ============================
+print("Bài tập 1: Tính tổng các số từ 1 đến n")
+print("Bài tập 2: Tính tổng các số chẵn từ 1 đến n")
+print("Bài tập 3: Tính tổng các số lẻ từ 1 đến n")
+print("Bài tập 4: Tính tổng các số từ m đến n")
+print("Bài tập 5: Tính tổng các số chẵn trong khoảng m đến n")
+print("Bài tập 6: Tính tổng các số chia hết cho x trong khoảng m đến n")
+print("Bài tập 7: Tính tổng các bội của x từ 1 đến n")
+print("Bài tập 8: Tính tổng các số chia hết cho x hoặc y từ 1 đến n")
+print("Bài tập 9: Tính tổng các số chia hết cho 3 từ 1 đến n")
+print("Bài tập 10: Tính tổng các căn bậc hai từ 1 đến n")
+print("Bài tập 11: Tính tổng các giai thừa từ 1 đến n")
+print("Bài tập 12: Tính tổng các bình phương từ 1 đến n")
+print("Bài tập 13: Tính tổng các phân số từ 1 đến n")
+print("Bài tập 14: Tính tổng các số mũ từ 1 đến n")
+print("Bài tập 15: Tính tổng các căn bậc hai và giai thừa từ 1 đến n")
+print("Bài tập 16: Tính tổng các số bình phương từ 1 đến n với dấu + - xen kẽ")
+print("Bài tập 17: Tính tổng các số căn bậc hai từ 1 đến n với dấu + - xen kẽ")
+print("Bài tập 18: Tính tổng các bình phương và căn bậc hai từ 1 đến n với dấu + - xen kẽ")
+print("Bài tập 19: Tính tổng các số bình phương chia hết cho x từ 1 đến n với dấu + - xen kẽ")
+print("Bài tập 20: Tính tổng các căn bậc hai của các số chia hết cho x từ 1 đến n với dấu + - xen kẽ")
